@@ -1,0 +1,32 @@
+('Date: Tue, 26 Sep 2000 09:26:00 -0700 (PDT)\r\n',
+ 'From: Phillip K Allen\r\n',
+ 'To: pallen70@hotmail.com\r\n',
+ 'Subject: Investment Structure\r\n',
+ 'X-SDOC: 948896\r\n',
+ 'X-ZLID: zl-edrm-enron-v2-allen-p-1713.eml\r\n',
+ '\r\n',
+ '---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000 \r\n',
+ '04:26 PM ---------------------------\r\n',
+ '\r\n')
+
+('Date: Tue, 26 Sep 2000 09:26:00 -0700 (PDT)\r\n',
+ 'From: Phillip K Allen\r\n',
+ 'To: pallen70@hotmail.com\r\n',
+ 'Subject: Investment Structure\r\n',
+ 'X-SDOC: 948896\r\n',
+ 'X-ZLID: zl-edrm-enron-v2-allen-p-1713.eml\r\n',
+ '\r\n',
+ '---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000 \r\n',
+ '04:26 PM ---------------------------\r\n',
+ '\r\n')
+
+('Date: Tue, 26 Sep 2000 09:26:00 -0700 (PDT)\r\n',
+ 'From: Phillip K Allen\r\n',
+ 'To: pallen70@hotmail.com\r\n',
+ 'Subject: Investment Structure\r\n',
+ 'X-SDOC: 948896\r\n',
+ 'X-ZLID: zl-edrm-enron-v2-allen-p-1713.eml\r\n',
+ '\r\n',
+ '---------------------- Forwarded by Phillip K Allen/HOU/ECT on 09/26/2000 \r\n',
+ '04:26 PM ---------------------------\r\n',
+ '\r\n')

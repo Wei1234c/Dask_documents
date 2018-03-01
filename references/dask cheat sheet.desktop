@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Link to dask cheat sheet
+Type=Link
+URL=https://dask.pydata.org/en/latest/_downloads/daskcheatsheet.pdf
+Icon=application-pdf
